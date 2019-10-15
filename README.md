@@ -7,6 +7,7 @@ A curated list of websites and apps to help you practice hacking
 * [Google Gruyere](http://google-gruyere.appspot.com/) 
 * [HackThis!!](https://www.hackthis.co.uk/) 
 * [Hack This Site](https://www.hackthissite.org/) 
+* [HackTheBox](https://www.hackthebox.eu/)
 * [Hellbound Hackers](https://www.hellboundhackers.org/) 
 * [McAfee HacMe Sites](http://www.mcafee.com/us/downloads/free-tools/index.aspx) 
 * [Mutillidae](https://sourceforge.net/projects/mutillidae/) 
